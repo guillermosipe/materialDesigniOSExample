@@ -1,0 +1,6 @@
+framework module Pods_materialDesignTests {
+  umbrella header "Pods-materialDesignTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
